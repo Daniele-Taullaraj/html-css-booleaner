@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.contenitore-logo {
+    background-image: url(./img-booleaner/img/pattern.png);
+    background-color: rgb(30, 144, 255);
+    width: 100%;
+    height: 11em;
+}
+
+#logo {
+    width: 15%;
+    height: 100%;
+    padding-top: 2.5em;
+    padding-left: 2em;
+}
