@@ -3,9 +3,10 @@
     padding: 0;
     box-sizing: border-box;
     width: 2300px;
-    font-weight: bold;
+    font-family: Georgia, serif;
 }
 
+/* style contenitore logo */
 .contenitore-logo {
     background-image: url(./img-booleaner/img/pattern.png);
     background-color: rgb(30, 144, 255);
@@ -17,20 +18,26 @@
 #logo {
     width: 15%;
     height: 100%;
-    padding-top: 2.5em;
+    padding-top: 3em;
     padding-left: 2em;
 }
 
+/* +++++++++ */
+
+/* style main */
 main {
     margin-left: 0.5em;
 }
 
+/* ++++++++++ */
+
+/* style sezione titolo+foto */
 h1 {
-    font-size: 6em;
+    font-size: 5em;
 }
 
 h2 {
-    font-size: 2.3em;
+    font-size: 1.8em;
     font-weight: 600;
     color: grey;
 }
@@ -49,5 +56,25 @@ figure {
 }
 
 figcaption>p {
-    font-size: 1.5em;
+    font-size: 1.3em;
+    font-weight: bold;
 }
+
+/* ++++++++++ */
+
+/* style descrizione+lista */
+.testo {
+    font-size: 1.7em;
+    font-weight: 600;
+}
+
+.paragrafo {
+    margin-top: 1em;
+    margin-bottom: 2em;
+}
+
+#lista {
+    margin-left: 2.5em;
+}
+
+/* ++++++++++ */
