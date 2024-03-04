@@ -104,3 +104,33 @@ tr>th {
     background-color: #b3d8e1;
     font-size: 1.7em;
 }
+
+/* ++++++++++ */
+
+/* style footer */
+footer {
+    margin-top: 2em;
+    margin-left: 0.5em;
+}
+
+.img_finali {
+    margin-top: 1em;
+    color: white;
+    height: 10em;
+    padding-left: 1em;
+    padding-top: 0.5em;
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+#monitor {
+    background-image: url(./img-booleaner/img/monitor.jpg);
+}
+
+#monitor2 {
+    background-image: url(./img-booleaner/img/graph.jpg);
+    margin-bottom: 3em;
+}
+
+/* ++++++++++ */
